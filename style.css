@@ -200,6 +200,7 @@ footer {
     padding: 26px 0;
     display: flex;
     justify-content: center;
+    text-align: center;
     /* 📍 Свойство для расположения ссылки горизонтально по центру */
 }
 
@@ -211,5 +212,6 @@ footer {
 }
 
 .footer-link:hover {
+    text-decoration: underline ;
     /* 📍 Стили для ссылки при наведении курсора */
 }
